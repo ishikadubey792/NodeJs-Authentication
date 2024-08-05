@@ -25,7 +25,7 @@ https://nodejs-authentication-ofse.onrender.com/
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/Abhithakur7080/NodeJs-Authentication`
+`git clone https://github.com/ishikadubey792/NodeJs-Authentication.git`
 
 ##### Into the project directory
 
